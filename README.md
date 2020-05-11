@@ -16,7 +16,7 @@ Klebsiella pneumoniae, Pseudomonas aeruginosa, Staphylococcus aureus.
 George A. Wendt and So Young Ryu
 
 ##	Reference
-Ryu, S.R., Wendt, G.A., Ernst, R.K., and Goodlett, D.R., 2020. MGMS2: Membrane Glycolipid Mass Spectrum Simulator for polymicrobial samples.Rapid Communications in Mass Spectrometry. doi: 10.1002/rcm.8824.
+Ryu, S.Y., Wendt, G.A., Ernst, R.K., and Goodlett, D.R., 2020. MGMS2: Membrane Glycolipid Mass Spectrum Simulator for polymicrobial samples.Rapid Communications in Mass Spectrometry. doi: 10.1002/rcm.8824.
 
 ##	Getting Started
 Requirement: R 3.5.3 or higher (https://www.r-project.org/)
